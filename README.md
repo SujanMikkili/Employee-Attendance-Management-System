@@ -207,7 +207,6 @@ codebase.
 
 ## Author
 
-**Your Name**
+**Mikkili Sujan**
 
-Replace this with your name or profile links if you want to include
-them.
+
